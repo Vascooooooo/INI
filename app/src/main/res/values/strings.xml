@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">INI</string>
+    <string name="title_activity_bottom_main">BottomMainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_bookmark">Bookmark</string>
+    <string name="title_about">About</string>
+</resources>
